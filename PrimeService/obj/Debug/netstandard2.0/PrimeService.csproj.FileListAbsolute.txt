@@ -1,0 +1,9 @@
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService/bin/Debug/netstandard2.0/PrimeService.deps.json
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService/bin/Debug/netstandard2.0/PrimeService.dll
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService/bin/Debug/netstandard2.0/PrimeService.pdb
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.csprojAssemblyReference.cache
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.csproj.CoreCompileInputs.cache
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfoInputs.cache
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfo.cs
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.dll
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.pdb

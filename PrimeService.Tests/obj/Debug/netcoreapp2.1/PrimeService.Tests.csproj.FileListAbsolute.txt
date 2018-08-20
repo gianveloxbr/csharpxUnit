@@ -1,0 +1,17 @@
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/obj/Debug/netcoreapp2.1/PrimeService.Tests.csprojAssemblyReference.cache
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/obj/Debug/netcoreapp2.1/PrimeService.Tests.csproj.CoreCompileInputs.cache
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/obj/Debug/netcoreapp2.1/PrimeService.Tests.AssemblyInfoInputs.cache
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/obj/Debug/netcoreapp2.1/PrimeService.Tests.AssemblyInfo.cs
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.1/PrimeService.Tests.deps.json
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.1/PrimeService.Tests.runtimeconfig.json
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.1/PrimeService.Tests.runtimeconfig.dev.json
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.1/PrimeService.Tests.dll
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.1/PrimeService.Tests.pdb
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.1/PrimeService.dll
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.1/PrimeService.pdb
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/obj/Debug/netcoreapp2.1/PrimeService.Tests.csproj.CopyComplete
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/obj/Debug/netcoreapp2.1/PrimeService.Tests.dll
+/home/gianvelox/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/obj/Debug/netcoreapp2.1/PrimeService.Tests.pdb
